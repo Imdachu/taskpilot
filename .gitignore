@@ -1,0 +1,53 @@
+# Ignore build output folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Core files
+wwwroot/
+
+# Visual Studio cache files
+.vs/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# Logs
+*.log
+*.tlog
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# JetBrains Rider
+.idea/
+
+# Node modules (if you have frontend in same repo)
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Publish output
+publish/
+
+# Backup files
+*.bak
+
+# Others
+*.pidb
+*.sdf
+*.cache
+*.pdb
+*.mdb
+
